@@ -14,6 +14,9 @@ export default function Home() {
           <Image src={MaintenanceIMG} alt="Page not found" width={300} />
         </div>
         <div className="py-5">
+          <h3>
+            Website currently under Maintenance
+          </h3>
           {/* <Link href="/" className="px-8 text-sm py-3 text-white rounded-full font-medium bg-gray-900/80 backdrop-blur">
             Home
           </Link> */}
